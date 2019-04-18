@@ -8,7 +8,7 @@ Matlab implementations of simple kinetic models of protein synthesis.
 
 <a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/M1_model.m">M1_model.m</a> and <a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/M1_model_simulate.m">M1_model_simulate.m</a> 
 
-<img src="https://github.com/auranic/ProteinTranslationModels/blob/master/images/Figure4.png"/>
+<img width=400pt src="https://github.com/auranic/ProteinTranslationModels/blob/master/images/Figure4.png"/>
 
 ### Simple model for the ribosomal protein synthesis
 
