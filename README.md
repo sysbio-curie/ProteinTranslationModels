@@ -4,9 +4,9 @@ Matlab implementations of simple kinetic models of protein synthesis.
 
 ## Models
 
-M1_model.m and M1_model_simulate.m - Simple model with explicit representation of the 40S scanning for AUG step
+<a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/M1_model.m">M1_model.m</a> and <a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/M1_model_simulate.m">M1_model_simulate.m</a> - Simple model with explicit representation of the 40S scanning for AUG step
 
-one_component_model.m and one_component_model_simulate.m - Simple model for the ribosomal protein synthesis
+<a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/one_component_model.m">one_component_model.m</a> and <a href="https://github.com/auranic/ProteinTranslationModels/blob/master/src/one_component_model_simulate.m">one_component_model_simulate.m</a> - Simple model for the ribosomal protein synthesis
 
 
 ## References:
