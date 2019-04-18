@@ -1,4 +1,4 @@
-# Set of simple kinetic models of the protein synthesis process
+# Set of simple kinetic models of the protein synthesis
 
 Matlab implementations of simple kinetic models of protein synthesis.
 
