@@ -19,6 +19,6 @@ Matlab implementations of simple kinetic models of protein synthesis.
 
 ## References:
 
-Gorban AN, Harel-Bellan A, Morozova N, Zinovyev A. <a href="https://arxiv.org/abs/1204.5941">Basic and simple mathematical model of coupled transcription, translation and degradation.</a> 2012. Arxiv preprint 1204.5941
+Gorban AN, Harel-Bellan A, Morozova N, Zinovyev A. <a href="https://www.aimspress.com/MBE/2019/6/6602">Basic and simple mathematical model of coupled transcription, translation and degradation.</a> 2019. Mathematical Biosciences and Engineering 16 (6), 6602–6622
 
 Morozova N, Zinovyev A, Nonne N, Pritchard L-L, Gorban AN, Harel-Bellan A. <a href="https://rnajournal.cshlp.org/content/18/9/1635.long">Kinetic signatures of microRNA modes of action</a>. 2012. RNA 18(9): 032284
